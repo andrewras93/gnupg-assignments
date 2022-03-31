@@ -1,0 +1,2 @@
+A signed document has limited usefulness. Other users must recover the original document from the signed version, and even with clearsigned documents, the signed document must be edited to recover the original.
+Therefore, there is a third method for signing a document that creates a detached signature. A detached signature is created using the --detach-sig option.
